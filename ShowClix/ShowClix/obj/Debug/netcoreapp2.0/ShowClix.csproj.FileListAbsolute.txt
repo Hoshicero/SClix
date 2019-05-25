@@ -1,0 +1,11 @@
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\bin\Debug\netcoreapp2.0\ShowClix.deps.json
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\bin\Debug\netcoreapp2.0\ShowClix.runtimeconfig.json
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\bin\Debug\netcoreapp2.0\ShowClix.runtimeconfig.dev.json
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\bin\Debug\netcoreapp2.0\ShowClix.dll
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\bin\Debug\netcoreapp2.0\ShowClix.pdb
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.csproj.CoreCompileInputs.cache
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.AssemblyInfoInputs.cache
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.AssemblyInfo.cs
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.dll
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.pdb
+C:\Users\corobinson.CARLOW\source\repos\ShowClix\ShowClix\obj\Debug\netcoreapp2.0\ShowClix.csprojAssemblyReference.cache
